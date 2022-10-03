@@ -1,0 +1,36 @@
+body{
+    background-image: url(img/fon.jpg);
+}
+
+
+.logotip{
+    position: absolute;
+    width: 164px;
+    height: 171px;
+
+}
+
+.header{
+    position: absolute;
+    display: flex;
+    gap: 300px;
+    margin-left: 20%;
+    margin-top: 2%;
+
+
+}
+
+.litlog{
+    position: absolute;
+    width: 24px;
+    height: 22px;
+    margin-left: 5px;
+}
+
+.foto{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 100px;
+    top: 230px;
+}
